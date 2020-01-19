@@ -1,0 +1,1 @@
+Parse html template, find placeholders name in attributes and process with parsed data
